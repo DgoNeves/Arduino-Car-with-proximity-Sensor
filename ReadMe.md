@@ -7,7 +7,7 @@ Here's a quick guide to make the same project but hopefully it'll work out bette
 
 * [WeMos ESP 8266 D1 Mini](https://pt.aliexpress.com/item/D1-mini-V2-Mini-NodeMcu-4M-bytes-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/32706031465.html?spm=2114.10010308.1000016.1.uzQEtv&isOrigTitle=true)
 * [Servo Motor SG90 9G](https://www.aliexpress.com/snapshot/0.html?orderId=84853877137019&productId=32442393099)
-* [Support Block Coupler Box 8 Battery AA](https://pt.aliexpress.com/item/Brand-New-Support-Block-Coupler-Box-8-Battery-AA-Battery-for-RC-Helicopter/32718513575.html?spm=2114.10010308.1000016.1.Xtxpqz&isOrigTitle=true) - **Advice** use 4.5V instead of 1.5V
+* [Support Block Coupler Box 8 Battery AA](https://pt.aliexpress.com/item/Brand-New-Support-Block-Coupler-Box-8-Battery-AA-Battery-for-RC-Helicopter/32718513575.html?spm=2114.10010308.1000016.1.Xtxpqz&isOrigTitle=true) - **Advice** use 4.5V batteries instead of 1.5V.
 * [HC-SR04](https://pt.aliexpress.com/item/New-Ultrasonic-Module-HC-SR04-Distance-Measuring-Transducer-Sensor-for-for-Ar/1859102668.html?spm=2114.10010308.1000016.1.925qY2&isOrigTitle=true)
 * [5V Relay](https://pt.aliexpress.com/item/5V-Relay-Module-1-Channel-Low-level-for-SCM-Household-Appliance-Control-FREE-SHIPPING-For-Arduino/1885956518.html?spm=2114.10010308.1000016.1.hiWjxJ&isOrigTitle=true)
 * [DC Motor](https://pt.aliexpress.com/item/Wholesale-550-Motor-Cooling-Fan-Inside-22000rpm-Strong-Magnetic-Motor-For-DIY-Model-High-Speed-Motor/32377399640.html?spm=2114.10010308.1000016.1.37I7pF&isOrigTitle=true)
